@@ -1,0 +1,37 @@
+div{
+    border: solid black 1px;
+    width: 19%;
+    float: left;
+
+}
+div img{
+    width: 100%;
+    height:max-content
+}
+body{
+
+    
+    background-color: black;
+}
+h1{
+    padding-left: 50px;
+    color: white;
+}
+
+h6{
+    padding-left:15pxpx;
+    font-size: smaller;
+    color: white;
+}
+button{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+h2{
+    color:white;
+
+}

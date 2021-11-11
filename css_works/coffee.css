@@ -1,0 +1,33 @@
+h1{
+    
+    margin-left: 400px;
+    
+}
+img{
+    width:800px;
+    height: 400px;
+    margin-left: 150px;
+}
+p{
+    text-align: center;
+    font-family:cursive;
+}
+h2{
+    margin-left: 400px;
+    font-family: cursive;
+}
+h3{
+    text-align: center;
+}
+div{
+    border: solid black 1px;
+    width: 24%;
+    float: left;
+    background-color: burlywood;
+    
+}
+div img{
+    width: 100%;
+    margin-left: 3px;
+    margin-top: 5px;
+}

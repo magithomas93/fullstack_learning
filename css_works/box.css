@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+h1{
+    color:#030bfc;
+    text-decoration: underline;
+    text-align: center;
+}
+#color1{
+    color:hsl(107°, 98%, 50%);
+}
+.color2{
+    color: rgb(84, 110, 10);
+
+}
+p{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Festive', cursive;
+}

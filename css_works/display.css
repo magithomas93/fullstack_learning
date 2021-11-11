@@ -1,0 +1,28 @@
+.rows{
+    border: solid black 1px;
+    background-color: blueviolet;
+    height: 300px;
+    width: 500px;
+    display: flex;
+    /*justify-content: space-between;*/
+    /*justify-content: space-evenly;*/
+    align-items: center;
+    justify-content: space-around;
+}
+.col{
+    height: 100px;
+    width: 100px;
+    border: solid 1px black;
+}
+.cols-1{
+    background-color: white;
+}
+.cols-2{
+    background-color: turquoise;
+}
+.cols-3{
+    background-color: violet;
+}
+.cols-4{
+    background-color: yellow;
+}
