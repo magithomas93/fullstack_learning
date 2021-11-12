@@ -1,5 +1,5 @@
 var num1=4,num2=8;
-if(num1>num2){
+/*if(num1>num2){
     console.log("num1 greater")
 }
 else if(num1==num2){
@@ -7,4 +7,5 @@ else if(num1==num2){
 }
 else{
     console.log("num2 is greater")
-}
+}*/
+console.log(num1>num2?num1:num2);
