@@ -1,0 +1,41 @@
+div{
+    width: 20%;
+    margin-top: 30px;
+    margin-left: 50px;
+    border: black 1px solid;
+    height: 850px;
+    font-style: normal;
+    float: left;
+}
+#details{
+    width: 70%;
+    margin-left: 0px;
+    
+}
+#details h1{
+    margin-left: 10px;
+    font-style: normal;
+}
+#details p{
+margin-left: 10px;
+}
+#details ol{
+font-size: 17px;
+}
+img{
+    width: 100px;
+    height: 150px;
+    margin-left: 90px;
+}
+h2{
+    text-align: center;
+    
+}
+h3{
+    text-align: left;
+    line-height: 0px;
+}
+h4{
+    text-align: left;
+    line-height: 0px;
+}
